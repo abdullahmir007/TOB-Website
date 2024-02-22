@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "THis is my Portfolio website and I am in Bahria University Islamabad working as a Student Ambassador For Microsoft.";
+  "THis is my Portfolio website and I am a student in Bahria University Islamabad, a Cloud Enthusiast and working as a Student Ambassador For Microsoft.";
 
 const About = () => {
   return (
